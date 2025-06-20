@@ -36,3 +36,7 @@ Java (Core Java - I/O Streams)
 VS Code (for writing and running the code)
 
 Command Line (for compiling and executing the program)
+
+#output
+
+[fileutility.txt](https://github.com/user-attachments/files/20839300/fileutility.txt)
