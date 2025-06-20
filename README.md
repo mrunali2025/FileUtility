@@ -1,11 +1,38 @@
-# FileUtility  
+# FileUtility
 
-This is a Java-based File Utility application.  
+*COMPANY*: CODTECH IT SOLUTIONS
 
-## Features:  
-- Read, write, and modify text files.  
-- Simple and user-friendly interface.  
+*NAME* : MRUNALI NIMJE
 
-## How to run:  
-1. Compile: javac FileUtility.java  
-2. Run: java FileUtility
+*INTERN ID*: CITSOD690
+
+*DOMAIN* : JAVA PROGRAMMING
+
+*DURATION* : 4 WEEKS
+
+*MENTOR*: MUZAMMIL AHMED
+
+##project Title
+
+Java File Handling Utility
+
+##Description
+
+This is a simple Java application that demonstrates basic file operations such as:
+
+Writing content to a file
+
+Reading content from a file
+
+Modifying existing text in the file
+
+
+This script is helpful for understanding how to handle text files in Java using FileWriter, BufferedReader, and BufferedWriter.
+
+##Technologies Used
+
+Java (Core Java - I/O Streams)
+
+VS Code (for writing and running the code)
+
+Command Line (for compiling and executing the program)
